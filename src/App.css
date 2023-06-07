@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+input{
+    border-radius: 5px;
+    padding: 1rem 10rem;
+    outline: black;
+    
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+}
